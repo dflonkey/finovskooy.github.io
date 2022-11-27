@@ -1,0 +1,21 @@
+section {
+    font-family: 'Raleway', sans-serif;
+}
+
+html::-webkit-scrollbar {
+    display: none;
+}
+
+.button {
+    margin: 0px 0px 10px 0px;
+}
+
+.title{
+    font-size:50px;
+}
+
+.image{
+    height: 360px;
+    width: 180px;
+    padding-bottom: 20px;
+}
